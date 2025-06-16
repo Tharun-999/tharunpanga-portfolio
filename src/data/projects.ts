@@ -21,8 +21,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/nixrajput/ecommerce-web-reactjs",
-    url: "https://nixlab-shop.vercel.app",
+    githubUrl: "https://github.com/Tharun-999/tharunpanga-portfolio/",
+    url: "https://tharunpanga-portfolio.vercel.app",
     tags: ["React.js", "Redux", "Material UI", "Stripe"],
   },
   {

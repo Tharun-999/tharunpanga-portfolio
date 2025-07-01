@@ -15,7 +15,7 @@ const projects: IProjectItem[] = [
   },
   {
     id: "e-commerce-app-mern",
-    title: "E-commerce App",
+    title: "Tulboxx App",
     description:
       "An e-commerce web application developed using React.js, Material UI, Redux, and Stripe.",
     icon: "/skills/react.svg",

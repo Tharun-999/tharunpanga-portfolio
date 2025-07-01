@@ -27,7 +27,7 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Tharun Panga",
   description:
-    "Tharun Panga is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Tharun Panga is a proficient Software Engineer and Full Stack Developer from USA, skilled in front-end and back-end development using modern tech stacks.",
   robots: {
     index: true,
     follow: true,

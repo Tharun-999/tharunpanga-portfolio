@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import LinkedInEngageButton from "@/components/common/LinkedInEngageButton";
 import Column from "@/components/core/Column";
 import ConstrainedBox from "@/components/core/constrained-box";
 import ResponsiveBox from "@/components/core/ResponsiveBox";
@@ -31,6 +32,7 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
 
           <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">
             <TalkButton />
+            <LinkedInEngageButton />
           </div>
         </Column>
 

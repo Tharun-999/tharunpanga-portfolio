@@ -10,6 +10,7 @@ class Strings {
   static linkedIn = "LinkedIn";
   static linkedInLink = "https://www.linkedin.com/in/tharunkumarpanga/";
   static linkedInUsername = "tharunkumar";
+  static linkedInLatestPost = "https://www.linkedin.com/posts/tharunkumarpanga_innovation-aiforgood-assistivetechnology-activity-7395651217441452032-U86r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC81I1MBhLxqbZUGfFrqFR7lOwoWBY5HgXA";
 
 
 
